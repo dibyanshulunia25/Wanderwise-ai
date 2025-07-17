@@ -1,8 +1,7 @@
-.env
-
 node_modules
 
-index.js
+.env
 
+index.js
 package-lock.json
 package.json
